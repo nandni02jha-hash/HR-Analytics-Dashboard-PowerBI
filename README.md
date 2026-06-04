@@ -2,7 +2,7 @@
 
 ## Live Dashboard
 
-🔗 Power BI Report:
+🔗 Power BI Dashboard:
 
 [https://app.powerbi.com/links/wHfCOv5vl5?ctid=84bbb486-806f-4cd8-9269-02671a81b4ac&pbi_source=linkShare](https://app.powerbi.com/groups/me/reports/cc98f7ce-eba4-4d8e-9873-4ab6de87f52a/f1b437db1a0ddc387ad0?ctid=84bbb486-806f-4cd8-9269-02671a81b4ac&experience=power-bi)
 
