@@ -4,7 +4,7 @@
 
 🔗 Power BI Report:
 
-https://app.powerbi.com/links/U_dNkVSr3z?ctid=84bbb486-806f-4cd8-9269-02671a81b4ac&pbi_source=linkShare
+https://app.powerbi.com/links/wHfCOv5vl5?ctid=84bbb486-806f-4cd8-9269-02671a81b4ac&pbi_source=linkShare
 
 ---
 
